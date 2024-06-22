@@ -9,15 +9,29 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [HTML Color Codes - can help to convert colors and choose palette](https://htmlcolorcodes.com/)
 - [Bezier Game - could help to tune your brain for Bezier Curves](https://bezier.method.ac/)
 
+## Naming conventions
+
+- [SMACSS](https://www.toptal.com/css/smacss-scalable-modular-architecture-css)
+- [BEM](https://www.toptal.com/css/introduction-to-bem-methodology)
+
 ## React
 
 - [Tips for React coders](https://www.freecodecamp.org/news/best-practices-for-react/)
 - [Radio Buttons in React](https://react.tips/radio-buttons-in-react-16/)
+- [Fetching data in React](https://blog.logrocket.com/comprehensive-guide-data-fetching-react/)
 - [Collection of custom hooks](https://usehooks.com/)
+
+## JavaScript
+
+[Undefined vs Null](https://flexiple.com/javascript/undefined-vs-null-javascript)
 
 ## Box Model
 
 - [Margin Collapsing](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
+
+## Flexbox
+
+- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Images
 
@@ -31,5 +45,9 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 ## Tables
 
 - [Guide to Table Elments](https://css-tricks.com/complete-guide-table-element/)
+
+## Misc
+
+- [Responsive basics](https://web.dev/articles/responsive-web-design-basics)
 
 To be continued... A lot...
