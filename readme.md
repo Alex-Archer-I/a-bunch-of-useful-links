@@ -8,6 +8,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [CSS Almanac - cool guide for css propertyes. Can't replace MDN though](https://css-tricks.com/almanac/)
 - [HTML Color Codes - can help to convert colors and choose palette](https://htmlcolorcodes.com/)
 - [Free templates for practice](https://freebiesbug.com/)
+- [Utopia - fluid type scale calculator](https://utopia.fyi/type/calculator/)
 
 ## Theory
 
@@ -18,6 +19,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 
 ### Naming conventions
 
+- [CUBE CSS](https://cube.fyi/)
 - [SMACSS](https://www.toptal.com/css/smacss-scalable-modular-architecture-css)
 - [BEM](https://www.toptal.com/css/introduction-to-bem-methodology)
 - [Brief overview of various methods](https://css-tricks.com/methods-organize-css/)
@@ -31,6 +33,14 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 ### Flexbox
 
 - [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Interactive Flexbox Guide](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [A game to help better ungerstand flex](https://flexboxfroggy.com/)
+
+### Grid
+
+- [Interactive Grid Guide](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Grid Examples](https://gridbyexample.com/)
+- [Grid Garden - a game for grid practice](https://cssgridgarden.com/)
 
 ### Links
 
@@ -61,6 +71,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [POST requests in React](https://stackabuse.com/post-http-request-in-react/)
 - [Collection of custom hooks](https://usehooks.com/)
 - [React patterns](https://reactpatterns.com/)
+- [Article about keys](https://www.developerway.com/posts/react-key-attribute)
 
 ## JavaScript
 
