@@ -22,6 +22,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [CUBE CSS](https://cube.fyi/)
 - [SMACSS](https://www.toptal.com/css/smacss-scalable-modular-architecture-css)
 - [BEM](https://www.toptal.com/css/introduction-to-bem-methodology)
+- [OOCSS](https://www.keycdn.com/blog/oocss)
 - [Brief overview of various methods](https://css-tricks.com/methods-organize-css/)
 
 ### HTML/CSS
@@ -41,6 +42,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Interactive Grid Guide](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Grid Examples](https://gridbyexample.com/)
 - [Grid Garden - a game for grid practice](https://cssgridgarden.com/)
+- [An article about build layouts with grid](https://www.joshwcomeau.com/css/full-bleed/)
 
 ### Links
 
@@ -72,6 +74,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Collection of custom hooks](https://usehooks.com/)
 - [React patterns](https://reactpatterns.com/)
 - [Article about keys](https://www.developerway.com/posts/react-key-attribute)
+- [React libraries from Adobe](https://react-spectrum.adobe.com/)
 
 ## JavaScript
 
