@@ -5,6 +5,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 ## Frontender helpers
 
 - [Can I Use - where you can check browser supporting for any feature](https://caniuse.com/)
+- [Free open-source UI elements](https://uiverse.io/)
 - [CSS Almanac - cool guide for css propertyes. Can't replace MDN though](https://css-tricks.com/almanac/)
 - [HTML Color Codes - can help to convert colors and choose palette](https://htmlcolorcodes.com/)
 - [Free templates for practice](https://freebiesbug.com/)
@@ -53,6 +54,10 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Very detailed giude for responsive Images](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html)
 - [Tips about full page background image](https://css-tricks.com/perfect-full-page-background-image/)
 
+### Forms
+
+- [About custom radio button elements](https://dev.to/andrewmcoupe/dont-fear-custom-radio-buttons-465a)
+
 ### Positioning
 
 - [Positioning 101](https://www.freecodecamp.org/news/how-to-use-the-position-property-in-css-to-align-elements-d8f49c403a26)
@@ -68,7 +73,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 ## React
 
 - [Tips for React coders](https://www.freecodecamp.org/news/best-practices-for-react/)
-- [Radio Buttons in React](https://react.tips/radio-buttons-in-react-16/)
+- [Radio Buttons in React](https://dev.to/collegewap/how-to-work-with-radio-buttons-in-react-3e0o)
 - [Fetching data in React](https://blog.logrocket.com/comprehensive-guide-data-fetching-react/)
 - [POST requests in React](https://stackabuse.com/post-http-request-in-react/)
 - [Collection of custom hooks](https://usehooks.com/)
