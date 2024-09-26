@@ -76,16 +76,27 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Radio Buttons in React](https://dev.to/collegewap/how-to-work-with-radio-buttons-in-react-3e0o)
 - [Fetching data in React](https://blog.logrocket.com/comprehensive-guide-data-fetching-react/)
 - [POST requests in React](https://stackabuse.com/post-http-request-in-react/)
+- [Fetching Data with Suspence](https://blog.logrocket.com/data-fetching-react-suspense/)
 - [Collection of custom hooks](https://usehooks.com/)
 - [React patterns](https://reactpatterns.com/)
 - [Article about keys](https://www.developerway.com/posts/react-key-attribute)
 - [React libraries from Adobe](https://react-spectrum.adobe.com/)
+
+### React and localStorage
+
+- [Basic usage of localStorage with React](https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/)
+- [More advanced practices](https://blog.logrocket.com/using-localstorage-react-hooks/)
+- [Another advanced article with the cahce example](https://www.robinwieruch.de/local-storage-react/)
 
 ## JavaScript
 
 - [JS Tutorial](https://www.javascripttutorial.net/)
 - [Undefined vs Null](https://flexiple.com/javascript/undefined-vs-null-javascript)
 - [JS Guides](https://sebhastian.com/javascript-tutorials/)
+
+### Array
+
+- [Array cloning methods](https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/)
 
 ## Animations
 
