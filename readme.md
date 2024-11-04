@@ -93,6 +93,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [JS Tutorial](https://www.javascripttutorial.net/)
 - [Undefined vs Null](https://flexiple.com/javascript/undefined-vs-null-javascript)
 - [JS Guides](https://sebhastian.com/javascript-tutorials/)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master)
 
 ### Array
 
