@@ -81,6 +81,7 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [React patterns](https://reactpatterns.com/)
 - [Article about keys](https://www.developerway.com/posts/react-key-attribute)
 - [React libraries from Adobe](https://react-spectrum.adobe.com/)
+- [Adding Jest to project](https://dev.to/michaeljota/how-to-add-jest-into-your-vite-project-with-ts-5d21)
 
 ### React and localStorage
 
@@ -94,6 +95,10 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Undefined vs Null](https://flexiple.com/javascript/undefined-vs-null-javascript)
 - [JS Guides](https://sebhastian.com/javascript-tutorials/)
 - [JS Algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master)
+- [Scope theory](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/)
+- [Hashmap with Map object](https://www.squash.io/javascript-hashmap-a-complete-guide/)
+- [Rebuilding Promise.all](https://dev.to/drewclem/rebuilding-promise-all-52g9)
+- 
 
 ### Array
 
