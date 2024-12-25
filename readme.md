@@ -98,11 +98,26 @@ I've noticed that my browser owerflowing with bookmarks of articles, guides and 
 - [Scope theory](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/)
 - [Hashmap with Map object](https://www.squash.io/javascript-hashmap-a-complete-guide/)
 - [Rebuilding Promise.all](https://dev.to/drewclem/rebuilding-promise-all-52g9)
-- 
+
+### Pure Functions
+
+- [Pure Functions - theory](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
+- [How to deal with side-effects](https://dev.to/vonheikemen/dealing-with-side-effects-and-pure-functions-in-javascript-16mg)
 
 ### Array
 
 - [Array cloning methods](https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/)
+
+## TypeScript
+
+### React
+
+- [Types of useRef](https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87)
+- [Types of React Events](https://dev.to/fatehmohamed14/typescript-event-types-for-react-3epa)
+
+## Git
+
+- [How does Git work](https://www.honeybadger.io/blog/how-does-git-work/)
 
 ## Animations
 
